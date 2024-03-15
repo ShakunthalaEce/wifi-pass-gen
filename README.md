@@ -1,6 +1,6 @@
 # WiFi Password Generator
 
-A simple C++ program to generate random WiFi passwords.
+A C++ program to generate WiFi passwords.
 
 ## Installation
 
